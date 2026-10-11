@@ -1,0 +1,21 @@
+rods:
+  basic:
+    id: rodBasic
+    quota: 50
+  iron:
+    id: rodIron
+    quota: 75
+  diamond:
+    id: rodDiamond
+    quota: 100
+  emerald:
+    id: rodEmerald
+    quota: 150
+  mythic:
+    id: rodMythic
+    quota: 200
+
+fishing:
+  require-evenmorefish-bait: true
+  preserve-rod-durability: true
+  remove-rod-at-zero-quota: true
