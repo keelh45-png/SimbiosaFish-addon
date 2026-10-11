@@ -1,0 +1,7 @@
+name: SimbiosaFish
+version: '0.2.0'
+main: id.simbiosa.fish.SimbiosaFishPlugin
+api-version: '1.21'
+description: Simbiosa custom fishing rod addon
+softdepend:
+  - EvenMoreFish
